@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/AliNough/ali-workenvi/issues"
   },
-  "homepage": "https://github.com/AliNough/ali-workenvi#readme"
+  "homepage": "https://github.com/AliNough/ali-workenvi#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }
