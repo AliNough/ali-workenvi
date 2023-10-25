@@ -1,0 +1,22 @@
+{
+  "name": "ali-workenvi",
+  "version": "1.0.0",
+  "description": "my-envirement-expo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliNough/ali-workenvi.git"
+  },
+  "keywords": [
+    "web-env-ali"
+  ],
+  "author": "ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliNough/ali-workenvi/issues"
+  },
+  "homepage": "https://github.com/AliNough/ali-workenvi#readme"
+}
